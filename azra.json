@@ -1,5 +1,5 @@
 {
-  "status": false,
-  "timer": 300,
+  "status": true,
+  "timer": 20,
   "restart": true,
 }
